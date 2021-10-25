@@ -362,6 +362,8 @@ const Box = styled.div`
 	padding-top: 30px;
 	display: flex;
 	flex-direction: row;
+	background-color: #181a1b;
+	color: rgb(200, 200, 200);
 `;
 
 const Left = styled.div`

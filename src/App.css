@@ -41,14 +41,14 @@
 }
 
 .change {
-	color: #007bff !important;
-	background-color: #fff !important;
-}
+	background-color: #181A1B !important;
+	color: rgb(200, 200, 200) !important;
+	}
 
 .nonchange {
-	background-color: #007bff !important;
-	color: #fff !important;
-}
+	background-color: #181A1B !important;
+	color: rgb(200, 200, 200) !important;
+	}
 
 .n {
 	flex: 0 0 50.667% !important;
@@ -78,4 +78,10 @@
 
 #labelpso {
 	margin-left: 32%;
+}
+
+.form-control, .form-control:focus {
+	background-color: #181A1B;
+	color: rgb(200, 200, 200);
+	border: 1px solid #303437;
 }
